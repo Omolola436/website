@@ -177,6 +177,12 @@ const ContactUs: React.FC = () => {
                 <h2 className="mb-4 text-1xl pt-[5px] text-gray-900">
                   35A, Dr. Ladi Alakija, Lagos <br /> Nigeria.
                 </h2>
+                <a
+                href="tel:+2348012345678"
+                className="text-gray-700 hover:text-blue-600 transition"
+                >
+                  +234 703 206 6473
+                </a>
               </div>
               <br />
               <div className='Nigeria flex flex-col align-center'>
@@ -191,6 +197,12 @@ const ContactUs: React.FC = () => {
                 <h2 className="mb-4 text-1xl pt-[5px] text-gray-900">
                   23, Harare Drive, Marborough <br /> Zimbabwe
                 </h2>
+                <a
+                  href="tel:+263771234567"
+                  className="text-gray-700 hover:text-blue-600 transition"
+                >
+                  +263 77 454 5470
+                </a>
               </div>
               <br />
               <div className='Nigeria flex flex-col align-center'>
@@ -205,6 +217,12 @@ const ContactUs: React.FC = () => {
                 <h2 className="mb-4 text-1xl pt-[5px] text-gray-900">
                   Plot-2614/M Kalunguti RD, New Kasama, Lusaka, <br /> Zambia.
                 </h2>
+                <a
+                  href="tel:+263771234567"
+                  className="text-gray-700 hover:text-blue-600 transition"
+                >
+                  +263 77 123 4567
+                </a>
               </div>
               
               <br />

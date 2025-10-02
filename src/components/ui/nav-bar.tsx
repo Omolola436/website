@@ -47,6 +47,8 @@ const navItems: NavItem[] = [
       { label: 'Educational Technology Training', to: '/solutions/educational-technology-training' },
     ],
   },
+  //{ label: 'Privacy Tracker', to: '/PrivacyTracker' },
+  { label: 'Privacy Tracker', to: 'https://privacy.tracker.3consult-ng.com'},
   {
     label: 'Resources',
     children: [
